@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pkanumula/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1894-merge-strings-alternately](https://github.com/pkanumula/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
@@ -24,4 +25,8 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pkanumula/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+## String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/pkanumula/Leetcode/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
