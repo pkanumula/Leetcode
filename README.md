@@ -21,6 +21,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pkanumula/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pkanumula/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1894-merge-strings-alternately](https://github.com/pkanumula/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pkanumula/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/pkanumula/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [1894-merge-strings-alternately](https://github.com/pkanumula/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2502-sort-the-people](https://github.com/pkanumula/Leetcode/tree/master/2502-sort-the-people) |
 ## Greedy
@@ -76,4 +78,8 @@
 |  |
 | ------- |
 | [2472-build-a-matrix-with-conditions](https://github.com/pkanumula/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/pkanumula/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
