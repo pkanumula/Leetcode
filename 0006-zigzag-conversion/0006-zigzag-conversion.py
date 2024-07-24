@@ -1,22 +1,20 @@
 class Solution(object):
     def convert(self, s, numRows):
-        """
-        :type s: str
-        :type numRows: int
-        :rtype: str
-        """
+        # If numRows is 1, no zigzag pattern can be formed
         if numRows == 1 or numRows >= len(s):
             return s
-
+        
+        # Create an array to hold the strings for each row
         rows = [''] * numRows
-        index, step = 0, 1
-
+        current_row = 0
+        direction = -1
+        
         for char in s:
-            rows[index] += char
-            if index == 0:
-                step = 1
-            elif index == numRows - 1:
-                step = -1
-            index += step
-
+            rows[current_row] += char
+            # Change direction when we reach the top or bottom row
+            if current_row == 0 or current_row == numRows - 1:
+                direction *= -1
+            current_row += direction
+        
+        # Join all rows to get the final string
         return ''.join(rows)
