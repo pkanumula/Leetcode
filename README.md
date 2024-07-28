@@ -21,6 +21,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/pkanumula/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pkanumula/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/pkanumula/Leetcode/tree/master/0013-roman-to-integer) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pkanumula/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pkanumula/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2159-two-out-of-three](https://github.com/pkanumula/Leetcode/tree/master/2159-two-out-of-three) |
@@ -52,6 +53,7 @@
 | [0006-zigzag-conversion](https://github.com/pkanumula/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/pkanumula/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/pkanumula/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/pkanumula/Leetcode/tree/master/0013-roman-to-integer) |
 | [1894-merge-strings-alternately](https://github.com/pkanumula/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2502-sort-the-people](https://github.com/pkanumula/Leetcode/tree/master/2502-sort-the-people) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/pkanumula/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -81,6 +83,7 @@
 | [0002-add-two-numbers](https://github.com/pkanumula/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/pkanumula/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/pkanumula/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/pkanumula/Leetcode/tree/master/0013-roman-to-integer) |
 ## Recursion
 |  |
 | ------- |
