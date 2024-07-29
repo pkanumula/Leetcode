@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/pkanumula/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/pkanumula/Leetcode/tree/master/0011-container-with-most-water) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pkanumula/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0932-monotonic-array](https://github.com/pkanumula/Leetcode/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/pkanumula/Leetcode/tree/master/0948-sort-an-array) |
 | [1293-three-consecutive-odds](https://github.com/pkanumula/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/pkanumula/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
