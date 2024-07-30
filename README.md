@@ -58,6 +58,7 @@
 | [0008-string-to-integer-atoi](https://github.com/pkanumula/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/pkanumula/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/pkanumula/Leetcode/tree/master/0013-roman-to-integer) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/pkanumula/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1894-merge-strings-alternately](https://github.com/pkanumula/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2502-sort-the-people](https://github.com/pkanumula/Leetcode/tree/master/2502-sort-the-people) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/pkanumula/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -116,6 +117,7 @@
 | [0010-regular-expression-matching](https://github.com/pkanumula/Leetcode/tree/master/0010-regular-expression-matching) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/pkanumula/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/pkanumula/Leetcode/tree/master/1511-count-number-of-teams) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/pkanumula/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -169,4 +171,8 @@
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/pkanumula/Leetcode/tree/master/1511-count-number-of-teams) |
+## Stack
+|  |
+| ------- |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/pkanumula/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 <!---LeetCode Topics End-->
