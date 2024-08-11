@@ -19,6 +19,7 @@
 | [1511-count-number-of-teams](https://github.com/pkanumula/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/pkanumula/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/pkanumula/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pkanumula/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/pkanumula/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pkanumula/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2159-two-out-of-three](https://github.com/pkanumula/Leetcode/tree/master/2159-two-out-of-three) |
@@ -97,6 +98,7 @@
 | [0870-magic-squares-in-grid](https://github.com/pkanumula/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/pkanumula/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/pkanumula/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pkanumula/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/pkanumula/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/pkanumula/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Divide and Conquer
@@ -189,6 +191,7 @@
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/pkanumula/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pkanumula/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/pkanumula/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Tree
 |  |
@@ -199,6 +202,7 @@
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/pkanumula/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/pkanumula/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pkanumula/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -219,4 +223,8 @@
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/pkanumula/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pkanumula/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
