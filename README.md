@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/pkanumula/Leetcode/tree/master/0011-container-with-most-water) |
 | [0040-combination-sum-ii](https://github.com/pkanumula/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pkanumula/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0624-maximum-distance-in-arrays](https://github.com/pkanumula/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/pkanumula/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/pkanumula/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/pkanumula/Leetcode/tree/master/0890-lemonade-change) |
@@ -96,6 +97,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pkanumula/Leetcode/tree/master/0011-container-with-most-water) |
+| [0624-maximum-distance-in-arrays](https://github.com/pkanumula/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/pkanumula/Leetcode/tree/master/0890-lemonade-change) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/pkanumula/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/pkanumula/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
