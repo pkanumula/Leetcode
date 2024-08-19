@@ -5,20 +5,11 @@ class Solution(object):
         :type queries: List[List[int]]
         :rtype: List[int]
         """
-        n, m = len(nums), len(queries)
-        answer = [0] * m
+        result = []
         
-        # Precompute the index of the kth smallest trimmed number for each trim length
-        index = [[] for _ in range(101)]
-        for i, num in enumerate(nums):
-            for trim in range(1, len(num) + 1):
-                key = int(num[-trim:])
-                index[trim].append((key, i))
-        for trim in range(1, 101):
-            index[trim].sort()
+        for k, trim in queries:
+            trimmed = [(num[-trim:], i) for i, num in enumerate(nums)]
+            trimmed.sort()
+            result.append(trimmed[k-1][1])
         
-        # Process the queries
-        for i, (k, trim) in enumerate(queries):
-            answer[i] = index[trim][k - 1][1]
-        
-        return answer
+        return result
