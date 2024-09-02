@@ -55,6 +55,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/pkanumula/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2159-two-out-of-three](https://github.com/pkanumula/Leetcode/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pkanumula/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2226-rings-and-rods](https://github.com/pkanumula/Leetcode/tree/master/2226-rings-and-rods) |
 | [2502-sort-the-people](https://github.com/pkanumula/Leetcode/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/pkanumula/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
@@ -103,6 +104,7 @@
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/pkanumula/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1894-merge-strings-alternately](https://github.com/pkanumula/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pkanumula/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2226-rings-and-rods](https://github.com/pkanumula/Leetcode/tree/master/2226-rings-and-rods) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/pkanumula/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2502-sort-the-people](https://github.com/pkanumula/Leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/pkanumula/Leetcode/tree/master/2727-number-of-senior-citizens) |
