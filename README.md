@@ -147,6 +147,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/pkanumula/Leetcode/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/pkanumula/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0725-split-linked-list-in-parts](https://github.com/pkanumula/Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/pkanumula/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
