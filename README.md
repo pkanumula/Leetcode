@@ -29,6 +29,7 @@
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pkanumula/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/pkanumula/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pkanumula/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/pkanumula/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/pkanumula/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/pkanumula/Leetcode/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/pkanumula/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -58,6 +59,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/pkanumula/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/pkanumula/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pkanumula/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/pkanumula/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2159-two-out-of-three](https://github.com/pkanumula/Leetcode/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pkanumula/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2226-rings-and-rods](https://github.com/pkanumula/Leetcode/tree/master/2226-rings-and-rods) |
@@ -108,6 +110,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/pkanumula/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/pkanumula/Leetcode/tree/master/0664-strange-printer) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/pkanumula/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/pkanumula/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/pkanumula/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/pkanumula/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pkanumula/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -228,6 +231,7 @@
 | ------- |
 | [0476-number-complement](https://github.com/pkanumula/Leetcode/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/pkanumula/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/pkanumula/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2159-two-out-of-three](https://github.com/pkanumula/Leetcode/tree/master/2159-two-out-of-three) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/pkanumula/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Bucket Sort
@@ -243,6 +247,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/pkanumula/Leetcode/tree/master/0948-sort-an-array) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/pkanumula/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pkanumula/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/pkanumula/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Shortest Path
