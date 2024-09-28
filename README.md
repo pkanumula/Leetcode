@@ -14,6 +14,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/pkanumula/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/pkanumula/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/pkanumula/Leetcode/tree/master/0729-my-calendar-i) |
+| [0859-design-circular-deque](https://github.com/pkanumula/Leetcode/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/pkanumula/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/pkanumula/Leetcode/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/pkanumula/Leetcode/tree/master/0906-walking-robot-simulation) |
@@ -178,6 +179,7 @@
 | [0002-add-two-numbers](https://github.com/pkanumula/Leetcode/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/pkanumula/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0725-split-linked-list-in-parts](https://github.com/pkanumula/Leetcode/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/pkanumula/Leetcode/tree/master/0859-design-circular-deque) |
 | [2411-spiral-matrix-iv](https://github.com/pkanumula/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/pkanumula/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/pkanumula/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -360,6 +362,7 @@
 | ------- |
 | [0729-my-calendar-i](https://github.com/pkanumula/Leetcode/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/pkanumula/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0859-design-circular-deque](https://github.com/pkanumula/Leetcode/tree/master/0859-design-circular-deque) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -427,4 +430,8 @@
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/pkanumula/Leetcode/tree/master/0729-my-calendar-i) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/pkanumula/Leetcode/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
