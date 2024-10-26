@@ -58,6 +58,7 @@
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/pkanumula/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/pkanumula/Leetcode/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/pkanumula/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/pkanumula/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/pkanumula/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/pkanumula/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2727-number-of-senior-citizens](https://github.com/pkanumula/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -365,6 +366,7 @@
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pkanumula/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/pkanumula/Leetcode/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/pkanumula/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/pkanumula/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/pkanumula/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/pkanumula/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Tree
@@ -375,6 +377,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/pkanumula/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/pkanumula/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/pkanumula/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/pkanumula/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/pkanumula/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/pkanumula/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
@@ -390,6 +393,7 @@
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/pkanumula/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pkanumula/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/pkanumula/Leetcode/tree/master/2035-count-sub-islands) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/pkanumula/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/pkanumula/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
@@ -398,6 +402,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/pkanumula/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/pkanumula/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/pkanumula/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/pkanumula/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/pkanumula/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/pkanumula/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Indexed Tree
