@@ -15,6 +15,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pkanumula/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/pkanumula/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/pkanumula/Leetcode/tree/master/0729-my-calendar-i) |
+| [0787-sliding-puzzle](https://github.com/pkanumula/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0859-design-circular-deque](https://github.com/pkanumula/Leetcode/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/pkanumula/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/pkanumula/Leetcode/tree/master/0890-lemonade-change) |
@@ -240,6 +241,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/pkanumula/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/pkanumula/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/pkanumula/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/pkanumula/Leetcode/tree/master/0999-regions-cut-by-slashes) |
@@ -406,6 +408,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/pkanumula/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0999-regions-cut-by-slashes](https://github.com/pkanumula/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pkanumula/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/pkanumula/Leetcode/tree/master/2035-count-sub-islands) |
