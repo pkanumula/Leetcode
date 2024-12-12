@@ -73,6 +73,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/pkanumula/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/pkanumula/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pkanumula/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/pkanumula/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/pkanumula/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/pkanumula/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2727-number-of-senior-citizens](https://github.com/pkanumula/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -399,6 +400,7 @@
 | [2422-query-kth-smallest-trimmed-number](https://github.com/pkanumula/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/pkanumula/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/pkanumula/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/pkanumula/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/pkanumula/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/pkanumula/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 ## Merge Sort
@@ -526,6 +528,7 @@
 | [2155-find-missing-observations](https://github.com/pkanumula/Leetcode/tree/master/2155-find-missing-observations) |
 | [2232-adding-spaces-to-a-string](https://github.com/pkanumula/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2411-spiral-matrix-iv](https://github.com/pkanumula/Leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/pkanumula/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/pkanumula/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Union Find
 |  |
