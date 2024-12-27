@@ -27,6 +27,7 @@
 | [0932-monotonic-array](https://github.com/pkanumula/Leetcode/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/pkanumula/Leetcode/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/pkanumula/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1063-best-sightseeing-pair](https://github.com/pkanumula/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/pkanumula/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1196-filling-bookcase-shelves](https://github.com/pkanumula/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/pkanumula/Leetcode/tree/master/1240-stone-game-ii) |
@@ -393,6 +394,7 @@
 | [0494-target-sum](https://github.com/pkanumula/Leetcode/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/pkanumula/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/pkanumula/Leetcode/tree/master/0664-strange-printer) |
+| [1063-best-sightseeing-pair](https://github.com/pkanumula/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1196-filling-bookcase-shelves](https://github.com/pkanumula/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/pkanumula/Leetcode/tree/master/1240-stone-game-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/pkanumula/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
