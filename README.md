@@ -48,6 +48,7 @@
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pkanumula/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/pkanumula/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pkanumula/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/pkanumula/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/pkanumula/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/pkanumula/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/pkanumula/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
@@ -241,6 +242,7 @@
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/pkanumula/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/pkanumula/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/pkanumula/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/pkanumula/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/pkanumula/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/pkanumula/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/pkanumula/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -401,6 +403,7 @@
 | [1240-stone-game-ii](https://github.com/pkanumula/Leetcode/tree/master/1240-stone-game-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/pkanumula/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/pkanumula/Leetcode/tree/master/1511-count-number-of-teams) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/pkanumula/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/pkanumula/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/pkanumula/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/pkanumula/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
