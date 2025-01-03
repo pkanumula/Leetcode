@@ -68,6 +68,7 @@
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/pkanumula/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/pkanumula/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/pkanumula/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2358-number-of-ways-to-split-array](https://github.com/pkanumula/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2411-spiral-matrix-iv](https://github.com/pkanumula/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/pkanumula/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2472-build-a-matrix-with-conditions](https://github.com/pkanumula/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -639,6 +640,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/pkanumula/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/pkanumula/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/pkanumula/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2358-number-of-ways-to-split-array](https://github.com/pkanumula/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/pkanumula/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/pkanumula/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/pkanumula/Leetcode/tree/master/3427-special-array-ii) |
