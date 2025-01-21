@@ -63,6 +63,7 @@
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/pkanumula/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/pkanumula/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/pkanumula/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2145-grid-game](https://github.com/pkanumula/Leetcode/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/pkanumula/Leetcode/tree/master/2155-find-missing-observations) |
 | [2159-two-out-of-three](https://github.com/pkanumula/Leetcode/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pkanumula/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -331,6 +332,7 @@
 | [1972-rotating-the-box](https://github.com/pkanumula/Leetcode/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/pkanumula/Leetcode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/pkanumula/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2145-grid-game](https://github.com/pkanumula/Leetcode/tree/master/2145-grid-game) |
 | [2411-spiral-matrix-iv](https://github.com/pkanumula/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/pkanumula/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2685-first-completely-painted-row-or-column](https://github.com/pkanumula/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -674,6 +676,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/pkanumula/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/pkanumula/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/pkanumula/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/pkanumula/Leetcode/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/pkanumula/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/pkanumula/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/pkanumula/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
