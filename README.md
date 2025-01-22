@@ -54,6 +54,7 @@
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/pkanumula/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/pkanumula/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/pkanumula/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1876-map-of-highest-peak](https://github.com/pkanumula/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/pkanumula/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/pkanumula/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/pkanumula/Leetcode/tree/master/1923-sentence-similarity-iii) |
@@ -329,6 +330,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/pkanumula/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pkanumula/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/pkanumula/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1876-map-of-highest-peak](https://github.com/pkanumula/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/pkanumula/Leetcode/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/pkanumula/Leetcode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/pkanumula/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -533,6 +535,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/pkanumula/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/pkanumula/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pkanumula/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1876-map-of-highest-peak](https://github.com/pkanumula/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/pkanumula/Leetcode/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/pkanumula/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/pkanumula/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
