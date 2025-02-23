@@ -26,6 +26,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/pkanumula/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/pkanumula/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/pkanumula/Leetcode/tree/master/0921-spiral-matrix-iii) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pkanumula/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0932-monotonic-array](https://github.com/pkanumula/Leetcode/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/pkanumula/Leetcode/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/pkanumula/Leetcode/tree/master/0952-word-subsets) |
@@ -140,6 +141,7 @@
 | [0870-magic-squares-in-grid](https://github.com/pkanumula/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/pkanumula/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/pkanumula/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pkanumula/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/pkanumula/Leetcode/tree/master/0952-word-subsets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/pkanumula/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/pkanumula/Leetcode/tree/master/0999-regions-cut-by-slashes) |
@@ -382,6 +384,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pkanumula/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/pkanumula/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pkanumula/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/pkanumula/Leetcode/tree/master/0948-sort-an-array) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/pkanumula/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 ## Linked List
@@ -617,6 +620,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pkanumula/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/pkanumula/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/pkanumula/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pkanumula/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/pkanumula/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/pkanumula/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pkanumula/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -663,6 +667,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/pkanumula/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pkanumula/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/pkanumula/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pkanumula/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/pkanumula/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/pkanumula/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pkanumula/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
