@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/pkanumula/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/pkanumula/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/pkanumula/Leetcode/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/pkanumula/Leetcode/tree/master/0027-remove-element) |
 | [0040-combination-sum-ii](https://github.com/pkanumula/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0179-largest-number](https://github.com/pkanumula/Leetcode/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pkanumula/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -197,6 +198,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pkanumula/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/pkanumula/Leetcode/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/pkanumula/Leetcode/tree/master/0027-remove-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pkanumula/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/pkanumula/Leetcode/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/pkanumula/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
