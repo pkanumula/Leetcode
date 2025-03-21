@@ -85,6 +85,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/pkanumula/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/pkanumula/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/pkanumula/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/pkanumula/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/pkanumula/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/pkanumula/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/pkanumula/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -184,6 +185,7 @@
 | [2107-find-unique-binary-string](https://github.com/pkanumula/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2159-two-out-of-three](https://github.com/pkanumula/Leetcode/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pkanumula/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/pkanumula/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2226-rings-and-rods](https://github.com/pkanumula/Leetcode/tree/master/2226-rings-and-rods) |
 | [2300-construct-string-with-repeat-limit](https://github.com/pkanumula/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/pkanumula/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -340,6 +342,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/pkanumula/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/pkanumula/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pkanumula/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/pkanumula/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2226-rings-and-rods](https://github.com/pkanumula/Leetcode/tree/master/2226-rings-and-rods) |
 | [2232-adding-spaces-to-a-string](https://github.com/pkanumula/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/pkanumula/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -503,6 +506,7 @@
 | [1558-course-schedule-iv](https://github.com/pkanumula/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/pkanumula/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2201-valid-arrangement-of-pairs](https://github.com/pkanumula/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/pkanumula/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/pkanumula/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2472-build-a-matrix-with-conditions](https://github.com/pkanumula/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/pkanumula/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -518,6 +522,7 @@
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/pkanumula/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/pkanumula/Leetcode/tree/master/1558-course-schedule-iv) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/pkanumula/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/pkanumula/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2472-build-a-matrix-with-conditions](https://github.com/pkanumula/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Dynamic Programming
