@@ -338,6 +338,7 @@
 | [0008-string-to-integer-atoi](https://github.com/pkanumula/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/pkanumula/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/pkanumula/Leetcode/tree/master/0013-roman-to-integer) |
+| [0038-count-and-say](https://github.com/pkanumula/Leetcode/tree/master/0038-count-and-say) |
 | [0179-largest-number](https://github.com/pkanumula/Leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/pkanumula/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/pkanumula/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
