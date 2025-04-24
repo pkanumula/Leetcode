@@ -138,6 +138,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/pkanumula/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/pkanumula/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/pkanumula/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/pkanumula/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/pkanumula/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/pkanumula/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/pkanumula/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -227,6 +228,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/pkanumula/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/pkanumula/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/pkanumula/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/pkanumula/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/pkanumula/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/pkanumula/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/pkanumula/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -547,6 +549,7 @@
 | [2478-longest-nice-subarray](https://github.com/pkanumula/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/pkanumula/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/pkanumula/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/pkanumula/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/pkanumula/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/pkanumula/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/pkanumula/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
