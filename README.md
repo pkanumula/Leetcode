@@ -90,6 +90,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/pkanumula/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/pkanumula/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/pkanumula/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/pkanumula/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/pkanumula/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/pkanumula/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/pkanumula/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
@@ -288,6 +289,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/pkanumula/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/pkanumula/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2164-two-best-non-overlapping-events](https://github.com/pkanumula/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/pkanumula/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/pkanumula/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2280-count-good-triplets-in-an-array](https://github.com/pkanumula/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/pkanumula/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -321,6 +323,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/pkanumula/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pkanumula/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/pkanumula/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/pkanumula/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/pkanumula/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pkanumula/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/pkanumula/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -439,6 +442,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/pkanumula/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/pkanumula/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/pkanumula/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/pkanumula/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2300-construct-string-with-repeat-limit](https://github.com/pkanumula/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/pkanumula/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/pkanumula/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -1028,6 +1032,7 @@
 | ------- |
 | [0859-design-circular-deque](https://github.com/pkanumula/Leetcode/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/pkanumula/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/pkanumula/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/pkanumula/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/pkanumula/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/pkanumula/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -1047,6 +1052,7 @@
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/pkanumula/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/pkanumula/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/pkanumula/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/pkanumula/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Eulerian Circuit
