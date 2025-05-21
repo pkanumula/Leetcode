@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/pkanumula/Leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/pkanumula/Leetcode/tree/master/0027-remove-element) |
 | [0040-combination-sum-ii](https://github.com/pkanumula/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0073-set-matrix-zeroes](https://github.com/pkanumula/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/pkanumula/Leetcode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/pkanumula/Leetcode/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pkanumula/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -191,6 +192,7 @@
 | [0001-two-sum](https://github.com/pkanumula/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pkanumula/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/pkanumula/Leetcode/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/pkanumula/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0264-ugly-number-ii](https://github.com/pkanumula/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pkanumula/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0432-all-oone-data-structure](https://github.com/pkanumula/Leetcode/tree/master/0432-all-oone-data-structure) |
@@ -485,6 +487,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/pkanumula/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0787-sliding-puzzle](https://github.com/pkanumula/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/pkanumula/Leetcode/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/pkanumula/Leetcode/tree/master/0870-magic-squares-in-grid) |
