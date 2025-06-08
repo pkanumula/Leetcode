@@ -1,19 +1,17 @@
-class Solution(object):
-    def lexicalOrder(self, n):
-        """
-        :type n: int
-        :rtype: List[int]
-        """
+from typing import List
+
+class Solution:
+    def lexicalOrder(self, n: int) -> List[int]:
         result = []
-        current = 1
+        curr = 1
         for _ in range(n):
-            result.append(current)
-            if current * 10 <= n:
-                current *= 10
+            result.append(curr)
+            if curr * 10 <= n:
+                curr *= 10
+            elif curr % 10 != 9 and curr + 1 <= n:
+                curr += 1
             else:
-                if current >= n:
-                    current //= 10
-                current += 1
-                while current % 10 == 0:
-                    current //= 10
+                while curr % 10 == 9 or curr + 1 > n:
+                    curr //= 10
+                curr += 1
         return result
