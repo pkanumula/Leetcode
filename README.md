@@ -18,6 +18,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/pkanumula/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/pkanumula/Leetcode/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/pkanumula/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/pkanumula/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0624-maximum-distance-in-arrays](https://github.com/pkanumula/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pkanumula/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/pkanumula/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -213,6 +214,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/pkanumula/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0432-all-oone-data-structure](https://github.com/pkanumula/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/pkanumula/Leetcode/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/pkanumula/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pkanumula/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0768-partition-labels](https://github.com/pkanumula/Leetcode/tree/master/0768-partition-labels) |
 | [0870-magic-squares-in-grid](https://github.com/pkanumula/Leetcode/tree/master/0870-magic-squares-in-grid) |
@@ -361,6 +363,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/pkanumula/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/pkanumula/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/pkanumula/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/pkanumula/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pkanumula/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/pkanumula/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0780-max-chunks-to-make-sorted](https://github.com/pkanumula/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -664,6 +667,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pkanumula/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/pkanumula/Leetcode/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/pkanumula/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pkanumula/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/pkanumula/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pkanumula/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -850,6 +854,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/pkanumula/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/pkanumula/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/pkanumula/Leetcode/tree/master/0948-sort-an-array) |
 | [1160-letter-tile-possibilities](https://github.com/pkanumula/Leetcode/tree/master/1160-letter-tile-possibilities) |
