@@ -36,6 +36,7 @@
 | [0921-spiral-matrix-iii](https://github.com/pkanumula/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pkanumula/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0932-monotonic-array](https://github.com/pkanumula/Leetcode/tree/master/0932-monotonic-array) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/pkanumula/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/pkanumula/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/pkanumula/Leetcode/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/pkanumula/Leetcode/tree/master/0952-word-subsets) |
@@ -795,6 +796,7 @@
 | [0806-domino-and-tromino-tiling](https://github.com/pkanumula/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/pkanumula/Leetcode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/pkanumula/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/pkanumula/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/pkanumula/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/pkanumula/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1170-shortest-common-supersequence](https://github.com/pkanumula/Leetcode/tree/master/1170-shortest-common-supersequence) |
@@ -883,6 +885,7 @@
 | ------- |
 | [0476-number-complement](https://github.com/pkanumula/Leetcode/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/pkanumula/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/pkanumula/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/pkanumula/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/pkanumula/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/pkanumula/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
