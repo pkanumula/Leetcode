@@ -677,6 +677,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/pkanumula/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/pkanumula/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/pkanumula/Leetcode/tree/master/0670-maximum-swap) |
+| [0826-soup-servings](https://github.com/pkanumula/Leetcode/tree/master/0826-soup-servings) |
 | [0870-magic-squares-in-grid](https://github.com/pkanumula/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/pkanumula/Leetcode/tree/master/1240-stone-game-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pkanumula/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -812,6 +813,7 @@
 | [0664-strange-printer](https://github.com/pkanumula/Leetcode/tree/master/0664-strange-printer) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/pkanumula/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0806-domino-and-tromino-tiling](https://github.com/pkanumula/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
+| [0826-soup-servings](https://github.com/pkanumula/Leetcode/tree/master/0826-soup-servings) |
 | [0868-push-dominoes](https://github.com/pkanumula/Leetcode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/pkanumula/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/pkanumula/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -1358,4 +1360,8 @@
 | [3548-find-the-count-of-good-integers](https://github.com/pkanumula/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/pkanumula/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/pkanumula/Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/pkanumula/Leetcode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
