@@ -668,6 +668,7 @@
 | [0007-reverse-integer](https://github.com/pkanumula/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/pkanumula/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/pkanumula/Leetcode/tree/master/0013-roman-to-integer) |
+| [0231-power-of-two](https://github.com/pkanumula/Leetcode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/pkanumula/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/pkanumula/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/pkanumula/Leetcode/tree/master/0273-integer-to-english-words) |
@@ -720,6 +721,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/pkanumula/Leetcode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/pkanumula/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0231-power-of-two](https://github.com/pkanumula/Leetcode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/pkanumula/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/pkanumula/Leetcode/tree/master/0273-integer-to-english-words) |
 | [1197-parsing-a-boolean-expression](https://github.com/pkanumula/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
@@ -904,6 +906,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/pkanumula/Leetcode/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/pkanumula/Leetcode/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/pkanumula/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/pkanumula/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
