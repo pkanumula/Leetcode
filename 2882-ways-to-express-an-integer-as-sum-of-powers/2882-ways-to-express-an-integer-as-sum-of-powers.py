@@ -2,7 +2,7 @@ class Solution:
     def numberOfWays(self, n: int, x: int) -> int:
         MOD = 10**9 + 7
         
-        # Precompute powers i^x <= n
+        # Precompute all i^x <= n
         powers = []
         i = 1
         while True:
@@ -12,13 +12,13 @@ class Solution:
             powers.append(p)
             i += 1
         
-        # dp[s] = number of ways to sum to s using each power at most once
+        # dp[s] = # of ways to get sum s
         dp = [0] * (n + 1)
         dp[0] = 1
         
+        # 0/1 knapsack-style count
         for p in powers:
-            # go backwards to avoid reusing the same power multiple times
             for s in range(n, p - 1, -1):
                 dp[s] = (dp[s] + dp[s - p]) % MOD
         
-        return dp[n] % MOD
+        return dp[n]
