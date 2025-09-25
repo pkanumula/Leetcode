@@ -14,6 +14,7 @@
 | [0073-set-matrix-zeroes](https://github.com/pkanumula/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/pkanumula/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/pkanumula/Leetcode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/pkanumula/Leetcode/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/pkanumula/Leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/pkanumula/Leetcode/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pkanumula/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -878,6 +879,7 @@
 | [0005-longest-palindromic-substring](https://github.com/pkanumula/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/pkanumula/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0118-pascals-triangle](https://github.com/pkanumula/Leetcode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/pkanumula/Leetcode/tree/master/0120-triangle) |
 | [0241-different-ways-to-add-parentheses](https://github.com/pkanumula/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/pkanumula/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/pkanumula/Leetcode/tree/master/0368-largest-divisible-subset) |
