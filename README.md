@@ -22,6 +22,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/pkanumula/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/pkanumula/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/pkanumula/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0474-ones-and-zeroes](https://github.com/pkanumula/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/pkanumula/Leetcode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/pkanumula/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0539-minimum-time-difference](https://github.com/pkanumula/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -550,6 +551,7 @@
 | [0214-shortest-palindrome](https://github.com/pkanumula/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/pkanumula/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/pkanumula/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0474-ones-and-zeroes](https://github.com/pkanumula/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0539-minimum-time-difference](https://github.com/pkanumula/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/pkanumula/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/pkanumula/Leetcode/tree/master/0567-permutation-in-string) |
@@ -960,6 +962,7 @@
 | [0264-ugly-number-ii](https://github.com/pkanumula/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/pkanumula/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/pkanumula/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/pkanumula/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/pkanumula/Leetcode/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/pkanumula/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/pkanumula/Leetcode/tree/master/0664-strange-printer) |
