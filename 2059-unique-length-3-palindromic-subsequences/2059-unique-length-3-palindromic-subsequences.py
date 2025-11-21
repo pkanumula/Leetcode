@@ -1,30 +1,29 @@
 class Solution:
     def countPalindromicSubsequence(self, s: str) -> int:
-        # Dictionary to store the first and last occurrences of each character
-        first_occurrence = {}
-        last_occurrence = {}
+        n = len(s)
         
-        # Determine the first and last occurrence of each character
-        for i, char in enumerate(s):
-            if char not in first_occurrence:
-                first_occurrence[char] = i
-            last_occurrence[char] = i
+        # First and last positions for each character 'a'..'z'
+        first = [n] * 26
+        last = [-1] * 26
         
-        # Set to store unique palindromic subsequences
-        unique_palindromes = set()
+        for i, ch in enumerate(s):
+            idx = ord(ch) - ord('a')
+            first[idx] = min(first[idx], i)
+            last[idx] = max(last[idx], i)
         
-        # Iterate over each unique character
-        for char in first_occurrence:
-            start = first_occurrence[char]
-            end = last_occurrence[char]
-            
-            # If there is a valid range to form a palindrome
-            if end - start > 1:
-                # Collect all unique characters between the start and end indices
-                middle_chars = set(s[start + 1:end])
-                for mid_char in middle_chars:
-                    # Form the palindrome and add it to the set
-                    unique_palindromes.add((char, mid_char, char))
+        ans = 0
         
-        # Return the count of unique palindromes
-        return len(unique_palindromes)
+        # For each possible outer character
+        for c in range(26):
+            l = first[c]
+            r = last[c]
+            if l < r:  # needs at least two occurrences
+                seen_middle = [False] * 26
+                # Look at all chars between first and last occurrence
+                for j in range(l + 1, r):
+                    mid_idx = ord(s[j]) - ord('a')
+                    seen_middle[mid_idx] = True
+                
+                ans += sum(seen_middle)
+        
+        return ans
