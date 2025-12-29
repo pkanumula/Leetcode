@@ -300,6 +300,7 @@
 | [0567-permutation-in-string](https://github.com/pkanumula/Leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/pkanumula/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pkanumula/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0756-pyramid-transition-matrix](https://github.com/pkanumula/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/pkanumula/Leetcode/tree/master/0768-partition-labels) |
 | [0870-magic-squares-in-grid](https://github.com/pkanumula/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/pkanumula/Leetcode/tree/master/0900-reordered-power-of-2) |
@@ -571,6 +572,7 @@
 | [0567-permutation-in-string](https://github.com/pkanumula/Leetcode/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/pkanumula/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/pkanumula/Leetcode/tree/master/0664-strange-printer) |
+| [0756-pyramid-transition-matrix](https://github.com/pkanumula/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/pkanumula/Leetcode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/pkanumula/Leetcode/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/pkanumula/Leetcode/tree/master/0868-push-dominoes) |
@@ -1110,6 +1112,7 @@
 | [0342-power-of-four](https://github.com/pkanumula/Leetcode/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/pkanumula/Leetcode/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/pkanumula/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0756-pyramid-transition-matrix](https://github.com/pkanumula/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/pkanumula/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/pkanumula/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/pkanumula/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -1436,6 +1439,7 @@
 | [0040-combination-sum-ii](https://github.com/pkanumula/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0494-target-sum](https://github.com/pkanumula/Leetcode/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/pkanumula/Leetcode/tree/master/0679-24-game) |
+| [0756-pyramid-transition-matrix](https://github.com/pkanumula/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1160-letter-tile-possibilities](https://github.com/pkanumula/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/pkanumula/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/pkanumula/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
