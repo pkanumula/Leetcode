@@ -54,6 +54,7 @@
 | [0945-snakes-and-ladders](https://github.com/pkanumula/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/pkanumula/Leetcode/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/pkanumula/Leetcode/tree/master/0952-word-subsets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/pkanumula/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0999-regions-cut-by-slashes](https://github.com/pkanumula/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1006-vowel-spellchecker](https://github.com/pkanumula/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/pkanumula/Leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -311,6 +312,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pkanumula/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/pkanumula/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/pkanumula/Leetcode/tree/master/0952-word-subsets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/pkanumula/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/pkanumula/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/pkanumula/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1006-vowel-spellchecker](https://github.com/pkanumula/Leetcode/tree/master/1006-vowel-spellchecker) |
