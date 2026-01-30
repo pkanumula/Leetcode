@@ -219,6 +219,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/pkanumula/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/pkanumula/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2915-count-of-interesting-subarrays](https://github.com/pkanumula/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/pkanumula/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3001-apply-operations-to-maximize-score](https://github.com/pkanumula/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/pkanumula/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/pkanumula/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -649,6 +650,7 @@
 | [2727-number-of-senior-citizens](https://github.com/pkanumula/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/pkanumula/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/pkanumula/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/pkanumula/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/pkanumula/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/pkanumula/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/pkanumula/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -1054,6 +1056,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/pkanumula/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/pkanumula/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/pkanumula/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/pkanumula/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/pkanumula/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/pkanumula/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/pkanumula/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -1215,6 +1218,7 @@
 | [2171-second-minimum-time-to-reach-destination](https://github.com/pkanumula/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/pkanumula/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/pkanumula/Leetcode/tree/master/2803-modify-graph-edge-weights) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/pkanumula/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/pkanumula/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/pkanumula/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/pkanumula/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -1569,6 +1573,7 @@
 | [2079-delete-duplicate-folders-in-system](https://github.com/pkanumula/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/pkanumula/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/pkanumula/Leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/pkanumula/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/pkanumula/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Segment Tree
 |  |
@@ -1683,4 +1688,8 @@
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/pkanumula/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/pkanumula/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Graph Theory
+|  |
+| ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/pkanumula/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 <!---LeetCode Topics End-->
