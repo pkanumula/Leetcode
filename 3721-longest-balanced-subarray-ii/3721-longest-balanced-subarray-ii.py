@@ -1,74 +1,94 @@
+from typing import List
+
 class Solution:
     def longestBalanced(self, nums: List[int]) -> int:
         n = len(nums)
-
-        class Node:
-            __slots__ = ("l", "r", "mn", "mx", "lazy")
-            def __init__(self):
-                self.l = self.r = 0
-                self.mn = self.mx = 0
-                self.lazy = 0
-
-        tr = [Node() for _ in range((n + 1) * 4)]
-
-        def build(u: int, l: int, r: int):
-            tr[u].l, tr[u].r = l, r
-            tr[u].mn = tr[u].mx = tr[u].lazy = 0
-            if l == r:
+        
+        # Segment Tree Setup
+        # Size needs to be a power of 2 for easy implementation
+        size = 1
+        while size < n:
+            size *= 2
+            
+        # Trees store min and max to allow searching for 0
+        mn = [0] * (2 * size)
+        mx = [0] * (2 * size)
+        lazy = [0] * (2 * size)
+        
+        # Helper to push lazy updates down to children
+        def push(x):
+            if lazy[x] != 0:
+                lz = lazy[x]
+                
+                lazy[2*x] += lz
+                mn[2*x] += lz
+                mx[2*x] += lz
+                
+                lazy[2*x+1] += lz
+                mn[2*x+1] += lz
+                mx[2*x+1] += lz
+                
+                lazy[x] = 0
+        
+        # Range Update
+        def update(l, r, val, x, lx, rx):
+            if lx >= r or rx <= l:
                 return
-            mid = (l + r) >> 1
-            build(u << 1, l, mid)
-            build(u << 1 | 1, mid + 1, r)
-
-        def apply(u: int, v: int):
-            tr[u].mn += v
-            tr[u].mx += v
-            tr[u].lazy += v
-
-        def pushdown(u: int):
-            if tr[u].lazy:
-                apply(u << 1, tr[u].lazy)
-                apply(u << 1 | 1, tr[u].lazy)
-                tr[u].lazy = 0
-
-        def pushup(u: int):
-            tr[u].mn = min(tr[u << 1].mn, tr[u << 1 | 1].mn)
-            tr[u].mx = max(tr[u << 1].mx, tr[u << 1 | 1].mx)
-
-        def modify(u: int, l: int, r: int, v: int):
-            if tr[u].l >= l and tr[u].r <= r:
-                apply(u, v)
+            if lx >= l and rx <= r:
+                mn[x] += val
+                mx[x] += val
+                lazy[x] += val
                 return
-            pushdown(u)
-            mid = (tr[u].l + tr[u].r) >> 1
-            if l <= mid:
-                modify(u << 1, l, r, v)
-            if r > mid:
-                modify(u << 1 | 1, l, r, v)
-            pushup(u)
+            
+            push(x)
+            mid = (lx + rx) // 2
+            update(l, r, val, 2*x, lx, mid)
+            update(l, r, val, 2*x+1, mid, rx)
+            mn[x] = min(mn[2*x], mn[2*x+1])
+            mx[x] = max(mx[2*x], mx[2*x+1])
+            
+        # Find the leftmost index L <= limit with value 0
+        def find_first_zero(x, lx, rx, limit):
+            # Optimization: If 0 is not within [min, max], it doesn't exist here
+            if mn[x] > 0 or mx[x] < 0:
+                return -1
+            if lx >= limit:
+                return -1
+            if rx - lx == 1:
+                return lx
+            
+            push(x)
+            mid = (lx + rx) // 2
+            
+            # Try left child first (to find the longest subarray / smallest L)
+            res = find_first_zero(2*x, lx, mid, limit)
+            if res != -1:
+                return res
+            
+            # Try right child
+            return find_first_zero(2*x+1, mid, rx, limit)
 
-        def query(u: int, target: int) -> int:
-            if tr[u].l == tr[u].r:
-                return tr[u].l
-            pushdown(u)
-            if tr[u << 1].mn <= target <= tr[u << 1].mx:
-                return query(u << 1, target)
-            return query(u << 1 | 1, target)
-
-        build(1, 0, n)
-
-        last = {}
-        now = ans = 0
-
-        for i, x in enumerate(nums, start=1):
-            det = 1 if (x & 1) else -1
-            if x in last:
-                modify(1, last[x], n, -det)
-                now -= det
-            last[x] = i
-            modify(1, i, n, det)
-            now += det
-            pos = query(1, now)
-            ans = max(ans, i - pos)
-
-        return ans
+        last_pos = {}
+        max_len = 0
+        
+        for i, num in enumerate(nums):
+            prev = last_pos.get(num, -1)
+            
+            # Even adds 1, Odd subtracts 1
+            val = 1 if num % 2 == 0 else -1
+            
+            # Update the range of start indices valid for this new distinct number
+            # Range: [prev + 1, i + 1) in 0-based indexing logic
+            update(prev + 1, i + 1, val, 1, 0, size)
+            
+            last_pos[num] = i
+            
+            # Find smallest L such that value is 0
+            l_idx = find_first_zero(1, 0, size, i + 1)
+            
+            if l_idx != -1:
+                current_len = i - l_idx + 1
+                if current_len > max_len:
+                    max_len = current_len
+                    
+        return max_len
