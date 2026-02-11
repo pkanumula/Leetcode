@@ -280,6 +280,7 @@
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/pkanumula/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/pkanumula/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3719-longest-balanced-subarray-i](https://github.com/pkanumula/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/pkanumula/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/pkanumula/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/pkanumula/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/pkanumula/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -406,6 +407,7 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/pkanumula/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/pkanumula/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3719-longest-balanced-subarray-i](https://github.com/pkanumula/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/pkanumula/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/pkanumula/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/pkanumula/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/pkanumula/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -805,6 +807,7 @@
 | [2280-count-good-triplets-in-an-array](https://github.com/pkanumula/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/pkanumula/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [3719-longest-balanced-subarray-i](https://github.com/pkanumula/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/pkanumula/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -1522,6 +1525,7 @@
 | [3643-zero-array-transformation-ii](https://github.com/pkanumula/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/pkanumula/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3719-longest-balanced-subarray-i](https://github.com/pkanumula/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/pkanumula/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/pkanumula/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/pkanumula/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/pkanumula/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -1589,6 +1593,7 @@
 | [2280-count-good-triplets-in-an-array](https://github.com/pkanumula/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/pkanumula/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3719-longest-balanced-subarray-i](https://github.com/pkanumula/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/pkanumula/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/pkanumula/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/pkanumula/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/pkanumula/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
