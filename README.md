@@ -1025,6 +1025,7 @@
 | [0650-2-keys-keyboard](https://github.com/pkanumula/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/pkanumula/Leetcode/tree/master/0664-strange-printer) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/pkanumula/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0799-champagne-tower](https://github.com/pkanumula/Leetcode/tree/master/0799-champagne-tower) |
 | [0806-domino-and-tromino-tiling](https://github.com/pkanumula/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/pkanumula/Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/pkanumula/Leetcode/tree/master/0867-new-21-game) |
