@@ -804,6 +804,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pkanumula/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/pkanumula/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0190-reverse-bits](https://github.com/pkanumula/Leetcode/tree/master/0190-reverse-bits) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pkanumula/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/pkanumula/Leetcode/tree/master/0948-sort-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/pkanumula/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
@@ -1137,6 +1138,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/pkanumula/Leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/pkanumula/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/pkanumula/Leetcode/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/pkanumula/Leetcode/tree/master/0476-number-complement) |
