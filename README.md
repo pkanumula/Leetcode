@@ -114,6 +114,7 @@
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/pkanumula/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1876-map-of-highest-peak](https://github.com/pkanumula/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pkanumula/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/pkanumula/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/pkanumula/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/pkanumula/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/pkanumula/Leetcode/tree/master/1923-sentence-similarity-iii) |
@@ -526,6 +527,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/pkanumula/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pkanumula/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/pkanumula/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/pkanumula/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pkanumula/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/pkanumula/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/pkanumula/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -785,6 +787,7 @@
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pkanumula/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/pkanumula/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1876-map-of-highest-peak](https://github.com/pkanumula/Leetcode/tree/master/1876-map-of-highest-peak) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/pkanumula/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1972-rotating-the-box](https://github.com/pkanumula/Leetcode/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/pkanumula/Leetcode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/pkanumula/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -873,6 +876,7 @@
 | [1636-number-of-substrings-with-only-1s](https://github.com/pkanumula/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/pkanumula/Leetcode/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/pkanumula/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/pkanumula/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/pkanumula/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/pkanumula/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/pkanumula/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1112,6 +1116,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/pkanumula/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/pkanumula/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1612-avoid-flood-in-the-city](https://github.com/pkanumula/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/pkanumula/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/pkanumula/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/pkanumula/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/pkanumula/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -1519,6 +1524,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/pkanumula/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/pkanumula/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/pkanumula/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/pkanumula/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/pkanumula/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/pkanumula/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/pkanumula/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
