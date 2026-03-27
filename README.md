@@ -221,6 +221,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/pkanumula/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/pkanumula/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2915-count-of-interesting-subarrays](https://github.com/pkanumula/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/pkanumula/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/pkanumula/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3001-apply-operations-to-maximize-score](https://github.com/pkanumula/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/pkanumula/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -807,6 +808,7 @@
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/pkanumula/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/pkanumula/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/pkanumula/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/pkanumula/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/pkanumula/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/pkanumula/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/pkanumula/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -907,6 +909,7 @@
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/pkanumula/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/pkanumula/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/pkanumula/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/pkanumula/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2998-count-symmetric-integers](https://github.com/pkanumula/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/pkanumula/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/pkanumula/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -1445,6 +1448,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/pkanumula/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/pkanumula/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/pkanumula/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/pkanumula/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/pkanumula/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3336-water-bottles-ii](https://github.com/pkanumula/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/pkanumula/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
