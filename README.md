@@ -284,6 +284,7 @@
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/pkanumula/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/pkanumula/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/pkanumula/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/pkanumula/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/pkanumula/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3719-longest-balanced-subarray-i](https://github.com/pkanumula/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/pkanumula/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
@@ -502,6 +503,7 @@
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/pkanumula/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/pkanumula/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/pkanumula/Leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/pkanumula/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3790-fruits-into-baskets-ii](https://github.com/pkanumula/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/pkanumula/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/pkanumula/Leetcode/tree/master/3827-implement-router) |
@@ -576,6 +578,7 @@
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/pkanumula/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/pkanumula/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/pkanumula/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/pkanumula/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## String
 |  |
 | ------- |
@@ -1111,6 +1114,7 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/pkanumula/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/pkanumula/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/pkanumula/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/pkanumula/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/pkanumula/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Heap (Priority Queue)
 |  |
